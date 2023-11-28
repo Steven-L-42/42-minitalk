@@ -1,4 +1,6 @@
-# Minitalk - Projektzusammenfassung
+# Minitalk - Readme
+
+![minitalk](https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png?raw=true)
 
 In diesem Minitalk-Projekt habe ich ein Kommunikationsprogramm erstellt, bestehend aus einem Client und einem Server. 
 
